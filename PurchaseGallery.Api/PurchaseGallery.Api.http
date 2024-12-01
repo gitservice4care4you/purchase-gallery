@@ -1,0 +1,6 @@
+@PurchaseGallery.Api_HostAddress = http://localhost:5059
+
+GET {{PurchaseGallery.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

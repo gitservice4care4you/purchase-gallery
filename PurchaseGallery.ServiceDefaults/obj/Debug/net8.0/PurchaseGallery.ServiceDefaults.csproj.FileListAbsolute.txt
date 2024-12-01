@@ -1,0 +1,12 @@
+C:\Users\EliasB\source\repos\PurchaseGallery\PurchaseGallery.ServiceDefaults\bin\Debug\net8.0\PurchaseGallery.ServiceDefaults.deps.json
+C:\Users\EliasB\source\repos\PurchaseGallery\PurchaseGallery.ServiceDefaults\bin\Debug\net8.0\PurchaseGallery.ServiceDefaults.dll
+C:\Users\EliasB\source\repos\PurchaseGallery\PurchaseGallery.ServiceDefaults\bin\Debug\net8.0\PurchaseGallery.ServiceDefaults.pdb
+C:\Users\EliasB\source\repos\PurchaseGallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\PurchaseGallery.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\EliasB\source\repos\PurchaseGallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\PurchaseGallery.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EliasB\source\repos\PurchaseGallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\PurchaseGallery.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\EliasB\source\repos\PurchaseGallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\PurchaseGallery.ServiceDefaults.AssemblyInfo.cs
+C:\Users\EliasB\source\repos\PurchaseGallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\PurchaseGallery.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\EliasB\source\repos\PurchaseGallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\PurchaseGallery.ServiceDefaults.dll
+C:\Users\EliasB\source\repos\PurchaseGallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\refint\PurchaseGallery.ServiceDefaults.dll
+C:\Users\EliasB\source\repos\PurchaseGallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\PurchaseGallery.ServiceDefaults.pdb
+C:\Users\EliasB\source\repos\PurchaseGallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\ref\PurchaseGallery.ServiceDefaults.dll

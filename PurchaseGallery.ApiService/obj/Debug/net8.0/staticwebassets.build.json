@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vhvIE0lck3SOJMEI1AmEyLTtbD4qcsN+LwQMwv8mcxI=",
+  "Source": "PurchaseGallery.ApiService",
+  "BasePath": "_content/PurchaseGallery.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

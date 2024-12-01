@@ -1,0 +1,94 @@
+@page "/profile"
+@using Microsoft.AspNetCore.Authorization
+@using Microsoft.Graph
+@using Microsoft.AspNetCore.Components.WebAssembly.Authentication
+@using Microsoft.Identity.Client
+@using Microsoft.Identity.Web
+@inject Microsoft.Graph.GraphServiceClient GraphServiceClient
+@inject ITokenAcquisition TokenAcquisition
+@attribute [Authorize]
+
+<h3>User Profile</h3>
+@if (user == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Property</th>
+                <th>Value</th>
+            </tr>
+        </thead>
+        <tr>
+            <td> UserId </td>
+            <td> @user.Id </td>
+        </tr>
+        <tr>
+            <td> DisplayName </td>
+            <td> @user.DisplayName </td>
+        </tr>
+        <tr>
+            <td> UserPrincipalName </td>
+            <td> @user.UserPrincipalName </td>
+        </tr>
+        <tr>
+            <td> Department </td>
+            <td> @user.Department </td>
+        </tr>
+        <tr>
+            <td> Job Title </td>
+            <td> @user.JobTitle </td>
+        </tr>
+    </table>
+}
+@* 
+@code {
+    User? user;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            user = await GraphServiceClient.Me.Request().GetAsync();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+} *@
+
+
+
+@code {
+    User? user;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            var token = await TokenAcquisition.GetAccessTokenForUserAsync(new[] { "User.Read" });
+            GraphServiceClient.AuthenticationProvider = new DelegateAuthenticationProvider(
+                requestMessage =>
+                {
+                    requestMessage.Headers.Authorization =
+                        new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", token);
+                    return Task.CompletedTask;
+                });
+
+            user = await GraphServiceClient.Me.Request().GetAsync();
+        }
+        catch (MsalUiRequiredException ex)
+        {
+            Console.WriteLine("User interaction required: " + ex.Message);
+            // Handle user interaction required exception
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+}

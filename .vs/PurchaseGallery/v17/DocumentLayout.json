@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED1540A-04A5-4B3F-85BA-336A56D3388B}|PurchaseGallery.Api\\PurchaseGallery.Api.csproj|c:\\users\\eliasb\\source\\repos\\purchasegallery\\purchasegallery.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED1540A-04A5-4B3F-85BA-336A56D3388B}|PurchaseGallery.Api\\PurchaseGallery.Api.csproj|solutionrelative:purchasegallery.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFC92A8-EC02-4F44-B7DD-B4FDE27E3390}|PurchaseGallery.AppHost\\PurchaseGallery.AppHost.csproj|c:\\users\\eliasb\\source\\repos\\purchasegallery\\purchasegallery.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFC92A8-EC02-4F44-B7DD-B4FDE27E3390}|PurchaseGallery.AppHost\\PurchaseGallery.AppHost.csproj|solutionrelative:purchasegallery.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED1540A-04A5-4B3F-85BA-336A56D3388B}|PurchaseGallery.Api\\PurchaseGallery.Api.csproj|c:\\users\\eliasb\\source\\repos\\purchasegallery\\purchasegallery.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED1540A-04A5-4B3F-85BA-336A56D3388B}|PurchaseGallery.Api\\PurchaseGallery.Api.csproj|solutionrelative:purchasegallery.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "PurchaseGallery.AppHost\\Program.cs",
+              "ToolTip": "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.AppHost\\Program.cs",
+              "RelativeToolTip": "PurchaseGallery.AppHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:28:50.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "PurchaseGallery.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "PurchaseGallery.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:23:56.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Api\\Program.cs",
+              "RelativeDocumentMoniker": "PurchaseGallery.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Api\\Program.cs",
+              "RelativeToolTip": "PurchaseGallery.Api\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:20:51.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
