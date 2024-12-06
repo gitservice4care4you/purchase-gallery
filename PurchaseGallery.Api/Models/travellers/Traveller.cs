@@ -6,9 +6,9 @@ namespace PurchaseGallery.Api.Models.travellers;
 public class Traveller
 {
     public Guid Id { get; set; }
-    public string Name { get; set; } = string.Empty;
-    public Guid FromWhereId { get; set; }
-    public Guid ToWhereId { get; set; }
-    public required Country FromWhere { get; set; }
-    public required Country ToWhere { get; set; }
+    public required string Name { get; set; }
+    public ICollection<Guid>? FromWhereId { get; set; }
+    public ICollection<Guid>? ToWhereId { get; set; }
+    public ICollection<Country>? FromWhere { get; set; }
+    public ICollection<Country>? ToWhere { get; set; }
 }

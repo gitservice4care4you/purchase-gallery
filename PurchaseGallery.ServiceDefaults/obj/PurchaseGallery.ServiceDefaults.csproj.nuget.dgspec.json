@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.ServiceDefaults\\PurchaseGallery.ServiceDefaults.csproj": {}
+    "C:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.ServiceDefaults\\PurchaseGallery.ServiceDefaults.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.ServiceDefaults\\PurchaseGallery.ServiceDefaults.csproj": {
+    "C:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.ServiceDefaults\\PurchaseGallery.ServiceDefaults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.ServiceDefaults\\PurchaseGallery.ServiceDefaults.csproj",
+        "projectUniqueName": "C:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.ServiceDefaults\\PurchaseGallery.ServiceDefaults.csproj",
         "projectName": "PurchaseGallery.ServiceDefaults",
-        "projectPath": "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.ServiceDefaults\\PurchaseGallery.ServiceDefaults.csproj",
+        "projectPath": "C:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.ServiceDefaults\\PurchaseGallery.ServiceDefaults.csproj",
         "packagesPath": "C:\\Users\\EliasB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.ServiceDefaults\\obj\\",
+        "outputPath": "C:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.ServiceDefaults\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EliasB\\AppData\\Roaming\\NuGet\\NuGet.Config",

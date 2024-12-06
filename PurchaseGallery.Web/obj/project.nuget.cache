@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PVCT8DoIEro=",
+  "dgSpecHash": "WkW1yA1yx+Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Web\\PurchaseGallery.Web.csproj",
+  "projectFilePath": "C:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.Web\\PurchaseGallery.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EliasB\\.nuget\\packages\\aspire.stackexchange.redis\\8.1.0\\aspire.stackexchange.redis.8.1.0.nupkg.sha512",
     "C:\\Users\\EliasB\\.nuget\\packages\\aspire.stackexchange.redis.outputcaching\\8.1.0\\aspire.stackexchange.redis.outputcaching.8.1.0.nupkg.sha512",

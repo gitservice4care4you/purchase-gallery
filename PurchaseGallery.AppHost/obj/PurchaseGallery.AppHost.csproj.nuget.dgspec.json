@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.AppHost\\PurchaseGallery.AppHost.csproj": {}
+    "c:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.AppHost\\PurchaseGallery.AppHost.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.AppHost\\PurchaseGallery.AppHost.csproj": {
+    "c:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.AppHost\\PurchaseGallery.AppHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.AppHost\\PurchaseGallery.AppHost.csproj",
+        "projectUniqueName": "c:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.AppHost\\PurchaseGallery.AppHost.csproj",
         "projectName": "PurchaseGallery.AppHost",
-        "projectPath": "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.AppHost\\PurchaseGallery.AppHost.csproj",
+        "projectPath": "c:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.AppHost\\PurchaseGallery.AppHost.csproj",
         "packagesPath": "C:\\Users\\EliasB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.AppHost\\obj\\",
+        "outputPath": "c:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.AppHost\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EliasB\\AppData\\Roaming\\NuGet\\NuGet.Config",

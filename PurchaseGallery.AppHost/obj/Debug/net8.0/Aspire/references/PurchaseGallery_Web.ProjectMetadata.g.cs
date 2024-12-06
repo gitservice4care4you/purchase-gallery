@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class PurchaseGallery_Web : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """C:\Users\EliasB\source\repos\PurchaseGallery\PurchaseGallery.Web\PurchaseGallery.Web.csproj""";
+    public string ProjectPath => """c:\Users\EliasB\source\repos\purchase-gallery\PurchaseGallery.Web\PurchaseGallery.Web.csproj""";
 }

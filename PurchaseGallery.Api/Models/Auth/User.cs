@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNetCore.Identity;
 using PurchaseGallery.Api.Models.Auth;
+using PurchaseGallery.Api.Models.Countries;
 
 namespace PurchaseGallery.ApiService.Models.Auth
 {
@@ -17,8 +18,9 @@ namespace PurchaseGallery.ApiService.Models.Auth
 
         public string? JobTitle { get; set; }
 
-        public string? Country { get; set; }
-        public ICollection<UserRole> UserRoles { get; set; } = [];
-
+        public Guid? CountryId { get; set; }
+        public Country? Country { get; set; }
+        public ICollection<Guid> RolesIds { get; set; } = [];
+        public ICollection<Role> Roles { get; set; } = [];
     }
 }

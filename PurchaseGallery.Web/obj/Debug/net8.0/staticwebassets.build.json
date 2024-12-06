@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RXv+2lFP7EAYA36/XdY32LjDC8mEiG9lolwP+9a58sI=",
+  "Hash": "9gxxVkMfTsDJeD8/ItJlv+ZaWn3zBCDlj2FiXJmRM9E=",
   "Source": "PurchaseGallery.Web",
   "BasePath": "_content/PurchaseGallery.Web",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "PurchaseGallery.Web\\wwwroot",
       "Source": "PurchaseGallery.Web",
-      "ContentRoot": "c:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.Web\\wwwroot\\",
       "BasePath": "_content/PurchaseGallery.Web",
       "Pattern": "**"
     }
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "C:\\Users\\EliasB\\.nuget\\packages\\microsoft.authentication.webassembly.msal\\8.0.10\\staticwebassets\\AuthenticationService.js"
     },
     {
-      "Identity": "c:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PurchaseGallery.Web.styles.css",
+      "Identity": "c:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PurchaseGallery.Web.styles.css",
       "SourceId": "PurchaseGallery.Web",
       "SourceType": "Computed",
-      "ContentRoot": "c:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "c:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PurchaseGallery.Web",
       "RelativePath": "PurchaseGallery.Web.styles.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PurchaseGallery.Web.styles.css"
+      "OriginalItemSpec": "c:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PurchaseGallery.Web.styles.css"
     },
     {
-      "Identity": "c:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PurchaseGallery.Web.bundle.scp.css",
+      "Identity": "c:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PurchaseGallery.Web.bundle.scp.css",
       "SourceId": "PurchaseGallery.Web",
       "SourceType": "Computed",
-      "ContentRoot": "c:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "c:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PurchaseGallery.Web",
       "RelativePath": "PurchaseGallery.Web.bundle.scp.css",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PurchaseGallery.Web.bundle.scp.css"
+      "OriginalItemSpec": "c:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PurchaseGallery.Web.bundle.scp.css"
     },
     {
-      "Identity": "c:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Web\\wwwroot\\app.css",
+      "Identity": "c:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.Web\\wwwroot\\app.css",
       "SourceId": "PurchaseGallery.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.Web\\wwwroot\\",
       "BasePath": "_content/PurchaseGallery.Web",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "c:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Web\\wwwroot\\appsettings.json",
+      "Identity": "c:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.Web\\wwwroot\\appsettings.json",
       "SourceId": "PurchaseGallery.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.Web\\wwwroot\\",
       "BasePath": "_content/PurchaseGallery.Web",
       "RelativePath": "appsettings.json",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\appsettings.json"
     },
     {
-      "Identity": "c:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "c:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "PurchaseGallery.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.Web\\wwwroot\\",
       "BasePath": "_content/PurchaseGallery.Web",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "c:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "c:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "PurchaseGallery.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.Web\\wwwroot\\",
       "BasePath": "_content/PurchaseGallery.Web",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Web\\wwwroot\\favicon.png",
+      "Identity": "c:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.Web\\wwwroot\\favicon.png",
       "SourceId": "PurchaseGallery.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.Web\\wwwroot\\",
       "BasePath": "_content/PurchaseGallery.Web",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

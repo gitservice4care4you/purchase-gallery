@@ -1,8 +1,7 @@
 namespace PurchaseGallery.Api.Models.Auth;
 
-public enum Roles
+public class RolesType
 {
-    Admin,
-    LineManager,
-    Employee
+    public Guid Id { get; set; }
+    public required string Name { get; set; }
 }

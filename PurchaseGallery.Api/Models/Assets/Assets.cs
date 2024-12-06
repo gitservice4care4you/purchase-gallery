@@ -15,14 +15,13 @@ namespace PurchaseGallery.Api.Models.Assets
         [Precision(18, 2)]
         public decimal Price { get; set; }
         public int AvailableQuantity { get; set; }
-
-
-        public Currency? Currency { get; set; }
         public bool IsAvailable { get; set; }
+
         public Guid AssetTypeId { get; set; }
-        public required AssetCategory AssetCategory
-        { get; set; }
-        public Guid AssetCategoryId { get; set; }
         public required AssetType AssetType { get; set; }
+        public Guid AssetCategoryId { get; set; }
+        public required AssetCategory AssetCategory { get; set; }
+        public Guid CurrencyId { get; set; }
+        public Currency? Currency { get; set; }
     }
 }

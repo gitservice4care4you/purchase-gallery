@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QtzvV1csN+Y=",
+  "dgSpecHash": "i4myFqgRXRI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.AppHost\\PurchaseGallery.AppHost.csproj",
+  "projectFilePath": "c:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.AppHost\\PurchaseGallery.AppHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EliasB\\.nuget\\packages\\aspire.hosting\\8.1.0\\aspire.hosting.8.1.0.nupkg.sha512",
     "C:\\Users\\EliasB\\.nuget\\packages\\aspire.hosting.apphost\\8.1.0\\aspire.hosting.apphost.8.1.0.nupkg.sha512",

@@ -8064,11 +8064,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Web\\PurchaseGallery.Web.csproj",
+      "projectUniqueName": "C:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.Web\\PurchaseGallery.Web.csproj",
       "projectName": "PurchaseGallery.Web",
-      "projectPath": "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Web\\PurchaseGallery.Web.csproj",
+      "projectPath": "C:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.Web\\PurchaseGallery.Web.csproj",
       "packagesPath": "C:\\Users\\EliasB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.Web\\obj\\",
+      "outputPath": "C:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EliasB\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8086,8 +8086,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.ServiceDefaults\\PurchaseGallery.ServiceDefaults.csproj": {
-              "projectPath": "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.ServiceDefaults\\PurchaseGallery.ServiceDefaults.csproj"
+            "c:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.ServiceDefaults\\PurchaseGallery.ServiceDefaults.csproj": {
+              "projectPath": "c:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.ServiceDefaults\\PurchaseGallery.ServiceDefaults.csproj"
             }
           }
         }

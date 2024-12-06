@@ -1,14 +1,8 @@
 namespace PurchaseGallery.Api.Models.Assets;
-public enum Currency
+public class Currency
 {
-    USD,
-    EUR,
-    GBP,
-    JPY,
-    AUD,
-    CAD,
-    CHF,
-    CNY,
-    SEK,
-    NZD
+    public int Id { get; set; }
+    public required string Code { get; set; }
+    public required string Name { get; set; }
+    public decimal ExchangeRate { get; set; }
 }

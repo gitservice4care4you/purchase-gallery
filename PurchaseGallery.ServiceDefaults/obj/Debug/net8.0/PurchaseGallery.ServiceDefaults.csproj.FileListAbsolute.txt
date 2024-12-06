@@ -10,3 +10,16 @@ C:\Users\EliasB\source\repos\PurchaseGallery\PurchaseGallery.ServiceDefaults\obj
 C:\Users\EliasB\source\repos\PurchaseGallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\refint\PurchaseGallery.ServiceDefaults.dll
 C:\Users\EliasB\source\repos\PurchaseGallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\PurchaseGallery.ServiceDefaults.pdb
 C:\Users\EliasB\source\repos\PurchaseGallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\ref\PurchaseGallery.ServiceDefaults.dll
+c:\Users\EliasB\source\repos\purchase-gallery\PurchaseGallery.ServiceDefaults\bin\Debug\net8.0\PurchaseGallery.ServiceDefaults.deps.json
+c:\Users\EliasB\source\repos\purchase-gallery\PurchaseGallery.ServiceDefaults\bin\Debug\net8.0\PurchaseGallery.ServiceDefaults.dll
+c:\Users\EliasB\source\repos\purchase-gallery\PurchaseGallery.ServiceDefaults\bin\Debug\net8.0\PurchaseGallery.ServiceDefaults.pdb
+c:\Users\EliasB\source\repos\purchase-gallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\PurchaseGallery.ServiceDefaults.csproj.AssemblyReference.cache
+c:\Users\EliasB\source\repos\purchase-gallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\PurchaseGallery.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\EliasB\source\repos\purchase-gallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\PurchaseGallery.ServiceDefaults.AssemblyInfoInputs.cache
+c:\Users\EliasB\source\repos\purchase-gallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\PurchaseGallery.ServiceDefaults.AssemblyInfo.cs
+c:\Users\EliasB\source\repos\purchase-gallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\PurchaseGallery.ServiceDefaults.csproj.CoreCompileInputs.cache
+c:\Users\EliasB\source\repos\purchase-gallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\PurchaseGallery.ServiceDefaults.sourcelink.json
+c:\Users\EliasB\source\repos\purchase-gallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\PurchaseGallery.ServiceDefaults.dll
+c:\Users\EliasB\source\repos\purchase-gallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\refint\PurchaseGallery.ServiceDefaults.dll
+c:\Users\EliasB\source\repos\purchase-gallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\PurchaseGallery.ServiceDefaults.pdb
+c:\Users\EliasB\source\repos\purchase-gallery\PurchaseGallery.ServiceDefaults\obj\Debug\net8.0\ref\PurchaseGallery.ServiceDefaults.dll

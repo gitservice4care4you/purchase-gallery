@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using PurchaseGallery.ApiService.Data;
 
@@ -11,9 +12,11 @@ using PurchaseGallery.ApiService.Data;
 namespace PurchaseGallery.Api.Migrations
 {
     [DbContext(typeof(PurchaseGalleryDbContext))]
-    partial class PurchaseGalleryDbContextModelSnapshot : ModelSnapshot
+    [Migration("20241202114535_CommentsAndPurchaseStatusAndUsersRoles")]
+    partial class CommentsAndPurchaseStatusAndUsersRoles
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

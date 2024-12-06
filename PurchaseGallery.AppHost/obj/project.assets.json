@@ -4353,11 +4353,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.AppHost\\PurchaseGallery.AppHost.csproj",
+      "projectUniqueName": "C:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.AppHost\\PurchaseGallery.AppHost.csproj",
       "projectName": "PurchaseGallery.AppHost",
-      "projectPath": "c:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.AppHost\\PurchaseGallery.AppHost.csproj",
+      "projectPath": "C:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.AppHost\\PurchaseGallery.AppHost.csproj",
       "packagesPath": "C:\\Users\\EliasB\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.AppHost\\obj\\",
+      "outputPath": "C:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.AppHost\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EliasB\\AppData\\Roaming\\NuGet\\NuGet.Config",

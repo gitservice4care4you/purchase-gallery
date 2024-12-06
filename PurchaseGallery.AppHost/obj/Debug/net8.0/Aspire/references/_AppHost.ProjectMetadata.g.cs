@@ -8,5 +8,5 @@ namespace Projects;
 public class PurchaseGallery_AppHost
 {
     private PurchaseGallery_AppHost() { }
-    public static string ProjectPath => """C:\Users\EliasB\source\repos\PurchaseGallery\PurchaseGallery.AppHost""";
+    public static string ProjectPath => """c:\Users\EliasB\source\repos\purchase-gallery\PurchaseGallery.AppHost""";
 }

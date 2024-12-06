@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xBXnJf0AJac=",
+  "dgSpecHash": "DzI3DMz8jd8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\EliasB\\source\\repos\\PurchaseGallery\\PurchaseGallery.ServiceDefaults\\PurchaseGallery.ServiceDefaults.csproj",
+  "projectFilePath": "C:\\Users\\EliasB\\source\\repos\\purchase-gallery\\PurchaseGallery.ServiceDefaults\\PurchaseGallery.ServiceDefaults.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EliasB\\.nuget\\packages\\google.protobuf\\3.22.5\\google.protobuf.3.22.5.nupkg.sha512",
     "C:\\Users\\EliasB\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",

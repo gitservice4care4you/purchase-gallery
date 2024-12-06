@@ -1,8 +1,7 @@
 namespace PurchaseGallery.Api.Models.PurchaseRequests;
 
-public enum PurchaseRequestStatus
+public class PurchaseRequestStatus
 {
-    Pending,
-    Approved,
-    Rejected
+    public Guid Id { get; set; }
+    public required string Name { get; set; }
 }

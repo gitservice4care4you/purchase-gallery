@@ -143,13 +143,13 @@ namespace PurchaseGallery.Api.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<User>>> GetUsers()
         {
-            return await _context.Users.Include(u => u.UserRoles).ToListAsync();
+            return await _context.Users.ToListAsync();
         }
 
         [HttpGet("{id}")]
         public async Task<ActionResult<User>> GetUser(Guid id)
         {
-            var user = await _context.Users.Include(u => u.UserRoles).FirstOrDefaultAsync(u => u.Id == id);
+            var user = await _context.Users.Include(u => u.Id).FirstOrDefaultAsync(u => u.Id == id);
 
             if (user == null)
             {
